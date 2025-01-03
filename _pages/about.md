@@ -29,7 +29,7 @@ His research focuses on geometric and generative AI models for drug discovery an
 # Research highlights
 ---
 ### Algorithmic innovation
- * Equivariant neural networks: [FAFormer (in review)](https://arxiv.org/pdf/2406.09586)
+ * Equivariant neural networks: [FAFormer (NeurIPS 2024)](https://arxiv.org/pdf/2406.09586)
  * Diffusion models for binding energy prediction: [Neural Euler's Rotation Equation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a45a1b0697ee086bd8bf494cacc6567-Paper-Conference.pdf), [DSMBind (in review)](https://www.biorxiv.org/content/10.1101/2023.12.10.570461v1.full.pdf)
  * Generative models for antibody/enzyme/RNA design: [RefineGNN (ICLR 2022)](https://arxiv.org/pdf/2110.04624), [HERN (ICML 2022)](https://arxiv.org/pdf/2207.06616), [SurfPro (ICML 2024)](https://arxiv.org/pdf/2405.06693), [EnzyGen (ICML 2024)](https://arxiv.org/pdf/2405.08205), [RNAFlow (ICML 2024)](https://arxiv.org/pdf/2405.18768)
  * Generative models for chemical perturbation prediction: [Mol2Image (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Mol2Image_Improved_Conditional_Flow_Models_for_Molecule_to_Image_Synthesis_CVPR_2021_paper.pdf)
@@ -44,3 +44,6 @@ His research focuses on geometric and generative AI models for drug discovery an
 ### Impact: chemical engineering
  * Automated chemical synthesis lab: [Science 2023](https://www.science.org/doi/abs/10.1126/science.adi1407)
  * Chemical reaction outcome prediction at chemist-level accuracy: [NeurIPS 2017](https://proceedings.neurips.cc/paper_files/paper/2017/file/ced556cd9f9c0c8315cfbe0744a3baf0-Paper.pdf), [Chemical Science 2019](https://pubs.rsc.org/en/content/articlehtml/2019/sc/c8sc04228d)
+
+# Teaching
+I will be teaching a Ph.D. seminar on AI for science. Please check out the course website: 
