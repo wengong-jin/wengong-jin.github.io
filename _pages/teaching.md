@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: CS7170
-description: Seminar in Artificial Intelligence: Frontiers in AI for Science (Spring 2025)
+title: CS7170 Seminar in Artificial Intelligence (Spring 2025)
+description: Frontiers in AI for Science 
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 # Course Information
