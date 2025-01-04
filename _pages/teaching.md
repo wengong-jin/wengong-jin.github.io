@@ -1,26 +1,28 @@
 ---
 layout: page
 permalink: /teaching/
-title: CS7170 Seminar in Artificial Intelligence (Spring 2025)
-description: Frontiers in AI for Science 
+title: teaching
+description: 
 nav: true
 nav_order: 7
 ---
 
-# Course Information
+## CS7170 Seminar in Artificial Intelligence: Frontier in AI for Science (Spring 2025)
+
+### Course Information
 
 Time: Tuesday 11:45 am - 1:25 pm, Thursday 2:50 pm - 4:30 pm
 Location: Hastings Suite 113
 Lecturer: Wengong Jin
 Pre-requisites: N/A
 
-# Course Description
+### Course Description
 
 This course provides an introduction of how Artificial Intelligence (AI) and Machine Learning (ML) techniques are transforming scientific discovery. Students will learn various deep learning architectures, such as graph neural networks, transformers, diffusion models, and explore how these models can be applied across scientific disciplines such as chemistry, biology, and material science.
 
 There is no written exam in this class. Students are encouraged to work closely with the professor on a project that is related to AI for science or give presentations on one of the research frontier sessions. Students from non-CS disciplines are encouraged to attend.
 
-# Schedule (tentative)
+### Schedule (tentative)
 
 Each class will cover a deep learning topic and demonstrate how it can be applied to different problems in scientific disciplines. The class is divided into two sections. In the first half of the semester, I will cover state-of-the-art AI methods and their applications in science. The goal is to help students understand the current state of the field (AI in science). In the second half of the semester, I will discuss various topics called "research frontiers", where the goal is to help students think about the important directions that will shape the future of this field.
 
@@ -55,7 +57,7 @@ Each class will cover a deep learning topic and demonstrate how it can be applie
 | Apr. 10 | Project presentation by students |
 | Apr. 15 | Last day of class | 
 
-# Course Deliverables
+### Course Deliverables
 
 * Participation and Discussions: 40%
 * Presentation (research frontier) or project: 60%
