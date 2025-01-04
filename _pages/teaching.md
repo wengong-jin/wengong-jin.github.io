@@ -11,10 +11,10 @@ nav_order: 7
 
 ### Course Information
 
-Time: Tuesday 11:45 am - 1:25 pm, Thursday 2:50 pm - 4:30 pm
-Location: Hastings Suite 113
-Lecturer: Wengong Jin
-Pre-requisites: N/A
+* Time: Tuesday 11:45 am - 1:25 pm, Thursday 2:50 pm - 4:30 pm
+* Location: Hastings Suite 113
+* Lecturer: Wengong Jin
+* Pre-requisites: N/A
 
 ### Course Description
 
