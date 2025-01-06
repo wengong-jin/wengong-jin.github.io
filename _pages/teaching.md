@@ -9,7 +9,7 @@ nav_order: 7
 
 ## CS7170 Seminar in Artificial Intelligence: Frontier in AI for Science (Spring 2025)
 
-* Time: Tuesday 12:00 pm - 1:25 pm, Thursday 3:00 pm - 4:25 pm
+* Time: Tuesday 11:45 am - 1:25 pm, Thursday 2:50 pm - 4:30 pm
 * Location: Hastings Suite 113
 * Lecturer: Wengong Jin
 * Pre-requisites: N/A
@@ -30,9 +30,9 @@ Each class will cover a deep learning topic and demonstrate how it can be applie
 
 | Date     | AI topics |  Example Applications  | Reading |
 | -------- | ------- | ------- | ----------- |
-| 1/7 | Introduction | Miscellaneous | 
-| 1/9  | Transformer | Protein language models  |
-| 1/14 | Graph neural network I | Molecular property prediction |
+| 1/7 | Introduction | Miscellaneous | [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1); [Protein folding](https://www.nature.com/articles/s41586-021-03819-2); [Material design](https://www.nature.com/articles/s41586-023-06735-9);
+| 1/9  | Transformer | Protein language models | [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118); [ESM-3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
+| 1/14 | Graph neural network I | Molecular property prediction | [MPNN](https://arxiv.org/abs/1704.01212); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1);
 | 1/16 | Graph neural network II  | Molecular property prediction |
 | 1/21 | Graph generation I  | De novo drug design  |
 | 1/23 | Graph generation II | Material design |
