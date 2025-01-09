@@ -31,8 +31,8 @@ Each class will cover a deep learning topic and demonstrate how it can be applie
 | Date     | AI topics |  Example Applications  | Reading |
 | -------- | ------- | ------- | ----------- |
 | 1/7 | Introduction | Miscellaneous | [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1); [Protein folding](https://www.nature.com/articles/s41586-021-03819-2); [Material design](https://www.nature.com/articles/s41586-023-06735-9);
-| 1/9  | Graph neural network I | Molecular property prediction | [MPNN](https://arxiv.org/abs/1704.01212); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1);
-| 1/14 | Graph neural network II  | Material property prediction | [Crystal GCN](https://arxiv.org/pdf/1710.10324); [Material design](https://www.nature.com/articles/s41586-023-06735-9);
+| 1/9  | Graph neural network I | Molecule/material property prediction | [MPNN](https://arxiv.org/abs/1704.01212); [GAT](https://arxiv.org/abs/1710.10903v3); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Crystal GCN](https://arxiv.org/pdf/1710.10324);
+| 1/14 | Graph neural network II  | Molecule property prediction | Hierarchical GNN ([1](https://papers.nips.cc/paper_files/paper/2018/file/e77dbaf6759253c7c6d0efc5690369c7-Paper.pdf),[2](https://proceedings.mlr.press/v119/jin20a/jin20a.pdf),[3](https://www.nature.com/articles/s41467-023-36736-1)); Pretraining GNN ([1](https://cs.stanford.edu/people/jure/pubs/pretrain-iclr20.pdf))
 | 1/16 | Graph generation I  | De novo drug design | [Graph VAE](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf);
 | 1/21 | Graph generation II | De novo drug design | [Junction Tree VAE](https://arxiv.org/abs/1802.04364);
 | 1/23 | Transformer I | Protein language models | [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118); [ESM-3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
