@@ -34,12 +34,12 @@ Each class will cover a deep learning topic and demonstrate how it can be applie
 | 1/9  | [Graph neural network I ](https://www.dropbox.com/scl/fi/innadlmjtodkovm653gwz/02-GNN.pdf?rlkey=bawc1g9v5tye812cifxo0v24n&dl=0)| Molecule/material property prediction | [MPNN](https://arxiv.org/abs/1704.01212); [GAT](https://arxiv.org/abs/1710.10903v3); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Crystal GCN](https://arxiv.org/pdf/1710.10324);
 | 1/14 | [Graph neural network II](https://www.dropbox.com/scl/fi/ra2q2ve9plqeddgu3z9zr/03-GNN.pdf?rlkey=jsq6wog8s29n65485etjwltk4&dl=0)  | Molecule property prediction | [GNNExplainer](https://arxiv.org/pdf/1903.03894); [RationaleRL](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf); [Pretraining GNN](https://cs.stanford.edu/people/jure/pubs/pretrain-iclr20.pdf)
 | 1/16 | [Graph generation](https://www.dropbox.com/scl/fi/zg5f1509256evir7q34dg/04-Graph-Generation.pdf?rlkey=re811fkpd2hr0jg31mffjvt0a&dl=0)  | De novo drug design | [GraphRNN](https://arxiv.org/abs/1802.08773); [Junction Tree VAE](https://arxiv.org/abs/1802.04364);
-| 1/21 | Transformer I | Protein language models | [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118); [ESM-3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
-| 1/23 | Transformer II | DNA language models | [MAMBA](https://arxiv.org/abs/2312.00752); [Evo](https://www.science.org/doi/10.1126/science.ado9336)
-| 1/28 | Equivariant neural networks I | Molecular property prediction |
-| 1/30 | Equivariant neural networks II | Protein structure modeling |
-| 2/4  | Diffusion models I (Gaussian diffusion) | Image generation |
-| 2/6  | Diffusion models II (Flow matching) | Protein folding | 
+| 1/21 | [Transformer I](https://www.dropbox.com/scl/fi/rm3uraxu9ztze11nz2y9v/05-Transformers.pdf?rlkey=ucirp2ppnf1mrlb90vp7vabtl&dl=0) | Protein language models | [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118); [ESM-3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
+| 1/23 | [Transformer II](https://www.dropbox.com/scl/fi/i9sd0hrx39r1tnfsk2aoq/06-SSM.pdf?rlkey=o2j3hdx5ystwx3rbugvi2dc4u&dl=0) | DNA language models | [MAMBA](https://arxiv.org/abs/2312.00752); [Evo](https://www.science.org/doi/10.1126/science.ado9336)
+| 1/28 | [Equivariant neural networks I](https://www.dropbox.com/scl/fi/b8rt00kyvasquj8j5tgm4/07-ENN.pdf?rlkey=3v2uwawk49cxtl27xio017pbe&dl=0) | Molecular property prediction |
+| 1/30 | [Equivariant neural networks II](https://www.dropbox.com/scl/fi/jqzp59zvkua25ooc747iv/08-MD.pdf?rlkey=v1qddbu5yewoqmppblrnpy7pz&dl=0) | Protein structure modeling |
+| 2/4  | [Diffusion models I (Gaussian diffusion)](https://www.dropbox.com/scl/fi/y4xo8csqitzntojk1l1ie/09-Diffusion.pdf?rlkey=yhup70dr8v9tcvm7zlmgrawbp&dl=0) | Image generation |
+| 2/6  | [Diffusion models II (Flow matching)](https://www.dropbox.com/scl/fi/ct79gjrrba0qtaj1is0qq/10-FM.pdf?rlkey=1l4yd04i4nxao2siosaiix13a&dl=0) | Protein folding | 
 | 2/11 | Diffusion models III (Discrete diffusion) | Protein design |
 | 2/13 | Reinforcement learning I (PPO) | De novo drug design | 
 | 2/18 | Reinforcement learning II (Monte Carlo tree search) | Chemical retrosynthesis |
