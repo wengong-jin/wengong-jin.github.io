@@ -28,7 +28,7 @@ This course provides an introduction of how Artificial Intelligence (AI) and Mac
 
 Each class will cover a deep learning topic and demonstrate how it can be applied to different problems in scientific disciplines. The class is divided into two parts. The first part focuses on state-of-the-art AI methods and their applications in science, with the goal of helping students understand the current state of the field (AI in science). The second part focuses on research frontiers, with the goal of prompting students think about directions that may shape the future of this field. This part will be presentations from students or guest speakers. The class will end with a few project presentations.
 
-| Date     | AI topics | Reading |
+| Date     | AI topics | Applications | Reading |
 | -------- | ------- | ------- | ----------- |
 | 1/7 | [Introduction](https://www.dropbox.com/scl/fi/6xnjrz69pixyx3bplebht/01-Introduction.pdf?rlkey=y4lf6zw2jdgg68mr5guqkb8q4&dl=0) | Miscellaneous | [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1); [Protein folding](https://www.nature.com/articles/s41586-021-03819-2); [Material design](https://www.nature.com/articles/s41586-023-06735-9);
 | 1/9  | [Graph neural network I ](https://www.dropbox.com/scl/fi/innadlmjtodkovm653gwz/02-GNN.pdf?rlkey=bawc1g9v5tye812cifxo0v24n&dl=0)| Molecule/material property prediction | [MPNN](https://arxiv.org/abs/1704.01212); [GAT](https://arxiv.org/abs/1710.10903v3); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Crystal GCN](https://arxiv.org/pdf/1710.10324);
