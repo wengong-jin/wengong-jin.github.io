@@ -24,6 +24,7 @@ This course provides an introduction of how Artificial Intelligence (AI) and Mac
 * Research frontier presentation (literature survey) (40%): present a list of papers related to a research topic in the field (~30min)
 * Project presentation (40%): Present a project in any topic related to AI for science. If you are working on any research projects in the intersection of science and AI, you are welcome to present your existing research work (~30min)
 * **Please submit your research frontier presentation title and project proposal via this [Google form](https://forms.gle/URhDLgVYSDPrevAEA) (deadline 2/24 EOD)**
+* If you would like to schedule an office hour with me (20min on Tuesday afternoon), please sign up using [Calendarly](https://calendly.com/wengong/30min)
 
 ### Schedule
 
