@@ -30,33 +30,33 @@ This course provides an introduction of how Artificial Intelligence (AI) and Mac
 
 Each class will cover a deep learning topic and demonstrate how it can be applied to different problems in scientific disciplines. The class is divided into two parts. The first part focuses on state-of-the-art AI methods and their applications in science, with the goal of helping students understand the current state of the field (AI in science). The second part focuses on research frontiers, with the goal of prompting students think about directions that may shape the future of this field. This part will be presentations from students or guest speakers. The class will end with a few project presentations.
 
-| Date     | AI topics | Applications | Reading |
-| -------- | ------- | ------- | ----------- |
-| 1/7 | [Introduction](https://www.dropbox.com/scl/fi/6xnjrz69pixyx3bplebht/01-Introduction.pdf?rlkey=y4lf6zw2jdgg68mr5guqkb8q4&dl=0) | Miscellaneous | [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1); [Protein folding](https://www.nature.com/articles/s41586-021-03819-2); [Material design](https://www.nature.com/articles/s41586-023-06735-9);
-| 1/9  | [Graph neural network I ](https://www.dropbox.com/scl/fi/innadlmjtodkovm653gwz/02-GNN.pdf?rlkey=bawc1g9v5tye812cifxo0v24n&dl=0)| Molecule/material property prediction | [MPNN](https://arxiv.org/abs/1704.01212); [GAT](https://arxiv.org/abs/1710.10903v3); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Crystal GCN](https://arxiv.org/pdf/1710.10324);
-| 1/14 | [Graph neural network II](https://www.dropbox.com/scl/fi/ra2q2ve9plqeddgu3z9zr/03-GNN.pdf?rlkey=jsq6wog8s29n65485etjwltk4&dl=0)  | Molecule property prediction | [GNNExplainer](https://arxiv.org/pdf/1903.03894); [RationaleRL](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf); [Pretraining GNN](https://cs.stanford.edu/people/jure/pubs/pretrain-iclr20.pdf)
-| 1/16 | [Graph generation](https://www.dropbox.com/scl/fi/zg5f1509256evir7q34dg/04-Graph-Generation.pdf?rlkey=re811fkpd2hr0jg31mffjvt0a&dl=0)  | De novo drug design | [GraphRNN](https://arxiv.org/abs/1802.08773); [Junction Tree VAE](https://arxiv.org/abs/1802.04364);
-| 1/21 | [Transformer I](https://www.dropbox.com/scl/fi/rm3uraxu9ztze11nz2y9v/05-Transformers.pdf?rlkey=ucirp2ppnf1mrlb90vp7vabtl&dl=0) | Protein language models | [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118); [ESM-3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
-| 1/23 | [Transformer II](https://www.dropbox.com/scl/fi/i9sd0hrx39r1tnfsk2aoq/06-SSM.pdf?rlkey=o2j3hdx5ystwx3rbugvi2dc4u&dl=0) | DNA language models | [MAMBA](https://arxiv.org/abs/2312.00752); [Evo](https://www.science.org/doi/10.1126/science.ado9336)
-| 1/28 | [Equivariant neural networks I](https://www.dropbox.com/scl/fi/b8rt00kyvasquj8j5tgm4/07-ENN.pdf?rlkey=3v2uwawk49cxtl27xio017pbe&dl=0) | Molecular property prediction |
-| 1/30 | [Equivariant neural networks II](https://www.dropbox.com/scl/fi/jqzp59zvkua25ooc747iv/08-MD.pdf?rlkey=v1qddbu5yewoqmppblrnpy7pz&dl=0) | Molecular dynamics|
-| 2/4  | [Diffusion models I (Gaussian diffusion)](https://www.dropbox.com/scl/fi/y4xo8csqitzntojk1l1ie/09-Diffusion.pdf?rlkey=yhup70dr8v9tcvm7zlmgrawbp&dl=0) | Protein structure prediction |
-| 2/6  | [Diffusion models II (Flow matching)](https://www.dropbox.com/scl/fi/ct79gjrrba0qtaj1is0qq/10-FM.pdf?rlkey=1l4yd04i4nxao2siosaiix13a&dl=0) | Protein structure prediction | 
-| 2/11 | Diffusion models III (Discrete diffusion) | Protein design |
-| 2/13 | Reinforcement learning I (PPO) | De novo drug design | 
-| 2/18 | Reinforcement learning II (Monte Carlo tree search) | Chemical retrosynthesis |
-| 2/20 | Self-supervised learning | Biomedical image analysis |
-| 2/25 | Explainable AI | Miscellaneous |
-| 2/27 | Project Proposal presentation  |
+| Date     | AI topics | Reading |
+| -------- | ------- |----------- |
+| 1/7 | [Introduction](https://www.dropbox.com/scl/fi/6xnjrz69pixyx3bplebht/01-Introduction.pdf?rlkey=y4lf6zw2jdgg68mr5guqkb8q4&dl=0) | [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1); [Protein folding](https://www.nature.com/articles/s41586-021-03819-2); [Material design](https://www.nature.com/articles/s41586-023-06735-9);
+| 1/9  | [Graph neural network (1)](https://www.dropbox.com/scl/fi/innadlmjtodkovm653gwz/02-GNN.pdf?rlkey=bawc1g9v5tye812cifxo0v24n&dl=0) | [MPNN](https://arxiv.org/abs/1704.01212); [GAT](https://arxiv.org/abs/1710.10903v3); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Crystal GCN](https://arxiv.org/pdf/1710.10324);
+| 1/14 | [Graph neural network (2)](https://www.dropbox.com/scl/fi/ra2q2ve9plqeddgu3z9zr/03-GNN.pdf?rlkey=jsq6wog8s29n65485etjwltk4&dl=0) | [GNNExplainer](https://arxiv.org/pdf/1903.03894); [RationaleRL](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf); [Pretraining GNN](https://cs.stanford.edu/people/jure/pubs/pretrain-iclr20.pdf)
+| 1/16 | [Graph generation](https://www.dropbox.com/scl/fi/zg5f1509256evir7q34dg/04-Graph-Generation.pdf?rlkey=re811fkpd2hr0jg31mffjvt0a&dl=0) | [GraphRNN](https://arxiv.org/abs/1802.08773); [Junction Tree VAE](https://arxiv.org/abs/1802.04364);
+| 1/21 | [Transformer (1)](https://www.dropbox.com/scl/fi/rm3uraxu9ztze11nz2y9v/05-Transformers.pdf?rlkey=ucirp2ppnf1mrlb90vp7vabtl&dl=0) | Protein LMs: [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118); [ESM-3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
+| 1/23 | [Transformer (2)](https://www.dropbox.com/scl/fi/i9sd0hrx39r1tnfsk2aoq/06-SSM.pdf?rlkey=o2j3hdx5ystwx3rbugvi2dc4u&dl=0) | DNA LMs: [MAMBA](https://arxiv.org/abs/2312.00752); [Evo](https://www.science.org/doi/10.1126/science.ado9336)
+| 1/28 | [Equivariant neural networks](https://www.dropbox.com/scl/fi/b8rt00kyvasquj8j5tgm4/07-ENN.pdf?rlkey=3v2uwawk49cxtl27xio017pbe&dl=0) | |
+| 1/30 | [Molecular dynamics](https://www.dropbox.com/scl/fi/jqzp59zvkua25ooc747iv/08-MD.pdf?rlkey=v1qddbu5yewoqmppblrnpy7pz&dl=0) | |
+| 2/4  | [Diffusion models (1) (Gaussian diffusion)](https://www.dropbox.com/scl/fi/y4xo8csqitzntojk1l1ie/09-Diffusion.pdf?rlkey=yhup70dr8v9tcvm7zlmgrawbp&dl=0) | |
+| 2/6  | [Diffusion models (2) (Flow matching)](https://www.dropbox.com/scl/fi/ct79gjrrba0qtaj1is0qq/10-FM.pdf?rlkey=1l4yd04i4nxao2siosaiix13a&dl=0) |  | 
+| 2/11 | [Explainable AI (1)](https://www.dropbox.com/scl/fi/vi1t744y3jhmdc1tuphyx/11_XAI.pptx?rlkey=v7gf9f2r43qwsokrfuf3ffy46&dl=0) | |
+| 2/13 | [Explainable AI (2)](https://www.dropbox.com/scl/fi/pv6bt1apqle7jboxrlybx/12_XAI.pptx?rlkey=dhjs3aovda9rv29ndpa87n71w&dl=0) | | 
+| 2/18 | [LLM (1)](https://www.dropbox.com/scl/fi/g3vhun8nov4evhnb4d6nv/13_RL_LLM.pdf?rlkey=kckdgcapi0gavayj17ji2dyth&dl=0) | [RLHF and DPO survey](https://arxiv.org/abs/2407.16216) |
+| 2/20 | [LLM (2)](https://www.dropbox.com/scl/fi/ujjejd2izhhlnoa57l20p/14_LLM_CoT.pdf?rlkey=888cyt3ncb2l2ryngatklq1yt&dl=0) | [Chain-of-thought reasoning survey](https://github.com/zchuz/CoT-Reasoning-Survey) |
+| 2/25 | Guest Lecture: Tinglin Huang (Yale) | [FAFormer for RNA](https://arxiv.org/pdf/2406.09586); [FAFormer for spatial transcriptomics](https://openreview.net/pdf?id=sYrdb3mhM4) |
+| 2/27 | Project Proposal presentation |
 | 3/4-3/6  | Spring break (no class) |
-| 3/11 | Guest Lecture: Wenhao Gao (MIT) | Chemistry |
-| 3/13 | Research frontier presentation  | 
-| 3/18 | Research frontier presentation  | 
-| 3/20 | Research frontier presentation  |
-| 3/25 | Research frontier presentation  |
+| 3/11 | Guest Lecture: Wenhao Gao (MIT) |  |
+| 3/13 | Research frontier presentation  | Presenter: Franc, Joey Ehlert |
+| 3/18 | Research frontier presentation  | Presenter: Ross Stewart, Karna Mendonca, Circe Hsu |
+| 3/20 | Research frontier presentation  | Presenter: Youran Ye, Ardavan Mehdizadeh, Haneen Abderrazzaq |
+| 3/25 | Research frontier presentation  | Presenter: Jici Jiang, Sarah Szvetecz, Yinyue Zhu |
 | 3/27 | Guest Lecture: Kyle Swanson (Stanford) |
-| 4/1  | Research frontier presentation | 
-| 4/3  | Research frontier presentation | 
+| 4/1  | Guest Lecture: Tian Xie (Microsoft AI for Science) | 
+| 4/3  | Project presentation by students | 
 | 4/8  | Project presentation by students |
 | 4/10 | Project presentation by students |
 | 4/15 | Project presentation by students |
