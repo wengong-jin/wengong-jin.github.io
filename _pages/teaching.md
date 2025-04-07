@@ -57,9 +57,9 @@ Each class will cover a deep learning topic and demonstrate how it can be applie
 | 3/27 | Guest Lecture: Kyle Swanson (Stanford) |
 | 4/1  | Guest Lecture: Tian Xie (Microsoft AI for Science) | 
 | 4/3  | Project presentation by students | Jici, Franc, Joey
-| 4/8  | Project presentation by students | Ross, Karna, Circe
+| 4/8  | Project presentation by students | Ross, Karna
 | 4/10 | Project presentation by students | Haneen, Yinyue, Sarah
-| 4/15 | Project presentation by students | Youran, Ardavan
+| 4/15 | Project presentation by students | Youran, Ardavan, Circe
 
 
 ### Research frontier presentation: example topics
