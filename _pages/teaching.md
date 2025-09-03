@@ -7,66 +7,57 @@ nav: true
 nav_order: 7
 ---
 
-## CS7170 Seminar in Artificial Intelligence: Frontier in AI for Science (Spring 2025)
+## DS 4440 Practical Neural Networks
 
-* Time: Tuesday 11:45 am - 1:25 pm, Thursday 2:50 pm - 4:30 pm
-* Location: Hastings Suite 113
+* Time: MW 2:50 pm - 4:30 pm
+* Location: Forsyth Building 236
 * Lecturer: Wengong Jin
-* Pre-requisites: N/A
 
 ### Course Description
 
-This course provides an introduction of how Artificial Intelligence (AI) and Machine Learning (ML) techniques are transforming scientific discovery. Students will learn various deep learning architectures, such as graph neural networks, transformers, diffusion models, and explore how these models can be applied across scientific disciplines such as chemistry, biology, and material science. Students from non-CS disciplines are encouraged to attend.
+Offers a hands-on introduction to modern neural network ("deep learning") methods and tools. Covers fundamentals of neural networks and introduces standard and new architectures from simple feedforward networks to recurrent and transformer architectures. Also covers stochastic gradient descent and backpropagation, along with related parameter estimation techniques. Emphasizes using these technologies in practice, via modern toolkits. Reviews applications of these models to various types of data, including images and text.
 
-### Course Deliverables
+### Resources
 
-* Participation and Discussions (20%).
-* Research frontier presentation (literature survey) (40%): present a list of papers related to a research topic in the field (~30min)
-* Project presentation (40%): Present a project in any topic related to AI for science. If you are working on any research projects in the intersection of science and AI, you are welcome to present your existing research work (~30min)
-* **Please submit your research frontier presentation title and project proposal via this [Google form](https://forms.gle/URhDLgVYSDPrevAEA) (deadline 2/24 EOD)**
-* If you would like to schedule an office hour with me (20min on Tuesday afternoon), please sign up using [Calendarly](https://calendly.com/wengong/30min)
+* Textbook: https://udlbook.github.io/udlbook/
+* PyTorch lab: https://github.com/mrdbourke/pytorch-deep-learning
 
-### Schedule
+### Grading
 
-Each class will cover a deep learning topic and demonstrate how it can be applied to different problems in scientific disciplines. The class is divided into two parts. The first part focuses on state-of-the-art AI methods and their applications in science, with the goal of helping students understand the current state of the field (AI in science). The second part focuses on research frontiers, with the goal of prompting students think about directions that may shape the future of this field. This part will be presentations from students or guest speakers. The class will end with a few project presentations.
+* Attendance (10%)
+* Three course projects (30%) each. Details of the project will be announced soon.
+* If you have never used PyTorch before, you are HIGHLY recommended to complete [PyTorch Lab](https://github.com/mrdbourke/pytorch-deep-learning) by the end of September. This part will not be graded, but if you don't do this, you will struggle to complete the projects...
 
-| Date     | AI topics | Reading |
-| -------- | ------- |----------- |
-| 1/7 | [Introduction](https://www.dropbox.com/scl/fi/6xnjrz69pixyx3bplebht/01-Introduction.pdf?rlkey=y4lf6zw2jdgg68mr5guqkb8q4&dl=0) | [Antibiotic discovery](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930102-1); [Protein folding](https://www.nature.com/articles/s41586-021-03819-2); [Material design](https://www.nature.com/articles/s41586-023-06735-9);
-| 1/9  | [Graph neural network (1)](https://www.dropbox.com/scl/fi/innadlmjtodkovm653gwz/02-GNN.pdf?rlkey=bawc1g9v5tye812cifxo0v24n&dl=0) | [MPNN](https://arxiv.org/abs/1704.01212); [GAT](https://arxiv.org/abs/1710.10903v3); [Chemprop](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237); [Crystal GCN](https://arxiv.org/pdf/1710.10324);
-| 1/14 | [Graph neural network (2)](https://www.dropbox.com/scl/fi/ra2q2ve9plqeddgu3z9zr/03-GNN.pdf?rlkey=jsq6wog8s29n65485etjwltk4&dl=0) | [GNNExplainer](https://arxiv.org/pdf/1903.03894); [RationaleRL](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf); [Pretraining GNN](https://cs.stanford.edu/people/jure/pubs/pretrain-iclr20.pdf)
-| 1/16 | [Graph generation](https://www.dropbox.com/scl/fi/zg5f1509256evir7q34dg/04-Graph-Generation.pdf?rlkey=re811fkpd2hr0jg31mffjvt0a&dl=0) | [GraphRNN](https://arxiv.org/abs/1802.08773); [Junction Tree VAE](https://arxiv.org/abs/1802.04364);
-| 1/21 | [Transformer (1)](https://www.dropbox.com/scl/fi/rm3uraxu9ztze11nz2y9v/05-Transformers.pdf?rlkey=ucirp2ppnf1mrlb90vp7vabtl&dl=0) | Protein LMs: [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118); [ESM-3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
-| 1/23 | [Transformer (2)](https://www.dropbox.com/scl/fi/i9sd0hrx39r1tnfsk2aoq/06-SSM.pdf?rlkey=o2j3hdx5ystwx3rbugvi2dc4u&dl=0) | DNA LMs: [MAMBA](https://arxiv.org/abs/2312.00752); [Evo](https://www.science.org/doi/10.1126/science.ado9336)
-| 1/28 | [Equivariant neural networks](https://www.dropbox.com/scl/fi/b8rt00kyvasquj8j5tgm4/07-ENN.pdf?rlkey=3v2uwawk49cxtl27xio017pbe&dl=0) | |
-| 1/30 | [Molecular dynamics](https://www.dropbox.com/scl/fi/jqzp59zvkua25ooc747iv/08-MD.pdf?rlkey=v1qddbu5yewoqmppblrnpy7pz&dl=0) | |
-| 2/4  | [Diffusion models (1) (Gaussian diffusion)](https://www.dropbox.com/scl/fi/y4xo8csqitzntojk1l1ie/09-Diffusion.pdf?rlkey=yhup70dr8v9tcvm7zlmgrawbp&dl=0) | |
-| 2/6  | [Diffusion models (2) (Flow matching)](https://www.dropbox.com/scl/fi/ct79gjrrba0qtaj1is0qq/10-FM.pdf?rlkey=1l4yd04i4nxao2siosaiix13a&dl=0) |  | 
-| 2/11 | [Explainable AI (1)](https://www.dropbox.com/scl/fi/vi1t744y3jhmdc1tuphyx/11_XAI.pptx?rlkey=v7gf9f2r43qwsokrfuf3ffy46&dl=0) | |
-| 2/13 | [Explainable AI (2)](https://www.dropbox.com/scl/fi/pv6bt1apqle7jboxrlybx/12_XAI.pptx?rlkey=dhjs3aovda9rv29ndpa87n71w&dl=0) | | 
-| 2/18 | [LLM (1)](https://www.dropbox.com/scl/fi/g3vhun8nov4evhnb4d6nv/13_RL_LLM.pdf?rlkey=kckdgcapi0gavayj17ji2dyth&dl=0) | [RLHF and DPO survey](https://arxiv.org/abs/2407.16216) |
-| 2/20 | [LLM (2)](https://www.dropbox.com/scl/fi/ujjejd2izhhlnoa57l20p/14_LLM_CoT.pdf?rlkey=888cyt3ncb2l2ryngatklq1yt&dl=0) | [Chain-of-thought reasoning survey](https://github.com/zchuz/CoT-Reasoning-Survey) |
-| 2/25 | Guest Lecture: Tinglin Huang (Yale) | [FAFormer for RNA](https://arxiv.org/pdf/2406.09586); [FAFormer for spatial transcriptomics](https://openreview.net/pdf?id=sYrdb3mhM4) |
-| 2/27 | Project Proposal presentation |
-| 3/4-3/6  | Spring break (no class) |
-| 3/11 | Guest Lecture: Wenhao Gao (MIT) |  |
-| 3/13 | Research frontier presentation  | Presenter: Franc, Joey Ehlert |
-| 3/18 | Research frontier presentation  | Presenter: Ross Stewart, Karna Mendonca, Circe Hsu |
-| 3/20 | Research frontier presentation  | Presenter: Youran Ye, Ardavan Mehdizadeh, Haneen Abderrazzaq |
-| 3/25 | Research frontier presentation  | Presenter: Jici Jiang, Sarah Szvetecz, Yinyue Zhu |
-| 3/27 | Guest Lecture: Kyle Swanson (Stanford) |
-| 4/1  | Guest Lecture: Tian Xie (Microsoft AI for Science) | 
-| 4/3  | Project presentation by students | Jici, Franc, Joey
-| 4/8  | Project presentation by students | Ross, Karna
-| 4/10 | Project presentation by students | Haneen, Yinyue, Sarah
-| 4/15 | Project presentation by students | Youran, Ardavan, Circe
+### Schedule (tentative)
 
-
-### Research frontier presentation: example topics
-* Scalability: faster equivariant neural networks and diffusion models
-* Interpretability: how to understand the rationale behind model predictions?
-* Physics-informed neural networks: how to incorporate domain knowledge (e.g. biophysics and chemistry)?
-* LLM agent: how to apply LLM agents to accelerate scientific discovery?
-* Federated learning: how to share sensitive data for model training?
-* Lab-in-the-loop learning: how to learn from experimental feedback?
-* (More based on your interest)
+| Date     | Lecture |
+| -------- | ------- |
+| 9/3 | [Introduction](https://www.dropbox.com/scl/fi/10xt44uojf1yqnp6yryt9/01_Intro.pptx?rlkey=8m243d30tdce6o4kz1281m6pm&dl=0) |
+| 9/8 | [Feedforward Neural Networks](https://www.dropbox.com/scl/fi/jvwcgv57frvzw584w7jsb/02_NN.pptx?rlkey=y4u3y2hskvov3yy0lfzrku3gk&dl=0) |
+| 9/10 | [Loss Function & Gradient Descent](https://www.dropbox.com/scl/fi/9rb721d9j55mltxzhdc4b/03_Training.pptx?rlkey=s2rqm2yyw6wgcz3olun7rtkl0&dl=0) | 
+| 9/15 | [Backpropagation & Regularization](https://www.dropbox.com/scl/fi/ebnc8wcz4rr9986bty03e/04_Regularization.pptx?rlkey=e2q8wnbko98u21ohrpenvd87r&dl=0) |
+| 9/17 | [Convolutional Neural Networks](https://www.dropbox.com/scl/fi/3dkwognglw5zlgw1gzzy3/05_CNN.pptx?rlkey=xddba7etatfz481nvu9kocolw&dl=0) |
+| 9/22 | Recurrent Neural Networks |
+| 9/24 | Transformers | 
+| 9/29 | State space models (SSM) |
+| 10/1 | Graph Neural Networks | 
+| 10/6 | Equivariant Neural Networks | 
+| 10/8 | Generative Models (Overview + autoregressive) |
+| 10/13 | No class (Colombus Day) |
+| 10/15 | Variational Autoencoders |
+| 10/20 | Generative Adversarial Networks | 
+| 10/22 | Diffusion Models |
+| 10/27 | Large Language Models 1 | 
+| 10/29 | Large Language Models 2 |
+| 11/3 | Large Language Models 3 | 
+| 11/5 | Reinforcement Learning 1 |
+| 11/10 | Reinforcement Learning 2 |
+| 11/12 | Explainable AI 1 |
+| 11/17 | Explainable AI 2  | 
+| 11/19 | Adversarial Attack |
+| 11/24 | Neural Network Pruning |
+| 11/26 | No class (Thanksgiving) | 
+| 12/1 | AI for science |
+| 12/3 | AI for healthcare |
+| 12/8 | Project Presentation |
+| 12/10 | Project Presentation |
