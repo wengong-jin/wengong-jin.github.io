@@ -12,6 +12,7 @@ nav_order: 7
 * Time: MW 2:50 pm - 4:30 pm
 * Location: Forsyth Building 236
 * Lecturer: Wengong Jin
+* TA: Chaitanya Agarwal (agarwal.cha@northeastern.edu)
 
 ### Course Description
 
@@ -19,14 +20,17 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 
 ### Resources
 
-* Textbook: https://udlbook.github.io/udlbook/
-* PyTorch lab: https://github.com/mrdbourke/pytorch-deep-learning
+* Textbook: [Understanding deep learning](https://udlbook.github.io/udlbook/)
+* [PyTorch lab](https://github.com/mrdbourke/pytorch-deep-learning)
 
 ### Grading
 
 * Attendance (10%)
-* Three course projects (30%) each. Details of the project will be announced soon.
-* If you have never used PyTorch before, you are HIGHLY recommended to complete [PyTorch Lab](https://github.com/mrdbourke/pytorch-deep-learning) by the end of September. This part will not be graded, but if you don't do this, you will struggle to complete the projects...
+* Four project-style homeworks
+  * HW1: complete [PyTorch Lab](https://github.com/mrdbourke/pytorch-deep-learning)
+  * HW1 will not be graded. If you haven't used PyTorch before, you must finish HW1 by the end of September. Otherwise, you won't be able to work on HW2-HW4
+  * HW2-HW4 (30% each)
+  * HW2 will be released by the end of September (stay tuned)
 
 ### Schedule (tentative)
 
@@ -59,5 +63,5 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | 11/26 | No class (Thanksgiving) | 
 | 12/1 | AI for science |
 | 12/3 | AI for healthcare |
-| 12/8 | Project Presentation |
-| 12/10 | Project Presentation |
+| 12/8 | TBD |
+| 12/10 | TBD |
