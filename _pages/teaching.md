@@ -38,8 +38,8 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | -------- | ------- |
 | 9/3 | [Introduction](https://www.dropbox.com/scl/fi/10xt44uojf1yqnp6yryt9/01_Intro.pptx?rlkey=8m243d30tdce6o4kz1281m6pm&dl=0) |
 | 9/8 | [Feedforward Neural Networks](https://www.dropbox.com/scl/fi/jvwcgv57frvzw584w7jsb/02_NN.pptx?rlkey=y4u3y2hskvov3yy0lfzrku3gk&dl=0) |
-| 9/10 | [Loss Function & Gradient Descent](https://www.dropbox.com/scl/fi/9rb721d9j55mltxzhdc4b/03_Training.pptx?rlkey=s2rqm2yyw6wgcz3olun7rtkl0&dl=0) | 
-| 9/15 | [Backpropagation & Regularization](https://www.dropbox.com/scl/fi/ebnc8wcz4rr9986bty03e/04_Regularization.pptx?rlkey=e2q8wnbko98u21ohrpenvd87r&dl=0) |
+| 9/10 | [Neural Network Training](https://www.dropbox.com/scl/fi/9rb721d9j55mltxzhdc4b/03_Training.pptx?rlkey=s2rqm2yyw6wgcz3olun7rtkl0&dl=0) | 
+| 9/15 | [Neural Network Regularization](https://www.dropbox.com/scl/fi/ebnc8wcz4rr9986bty03e/04_Regularization.pptx?rlkey=e2q8wnbko98u21ohrpenvd87r&dl=0) |
 | 9/17 | [Convolutional Neural Networks](https://www.dropbox.com/scl/fi/3dkwognglw5zlgw1gzzy3/05_CNN.pptx?rlkey=xddba7etatfz481nvu9kocolw&dl=0) |
 | 9/22 | Recurrent Neural Networks |
 | 9/24 | Transformers | 
