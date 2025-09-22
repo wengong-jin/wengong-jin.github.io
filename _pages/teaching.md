@@ -27,10 +27,9 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 
 * Attendance (10%)
 * Four project-style homeworks
-  * HW1: complete [PyTorch Lab](https://github.com/mrdbourke/pytorch-deep-learning)
-  * HW1 will not be graded. If you haven't used PyTorch before, you must finish HW1 by the end of September. Otherwise, you won't be able to work on HW2-HW4
-  * HW2-HW4 (30% each)
-  * HW2 will be released by the end of September (stay tuned)
+  * HW0: complete [PyTorch Lab](https://github.com/mrdbourke/pytorch-deep-learning)
+  * HW0 will not be graded. If you haven't used PyTorch before, you must finish HW0 by the end of September. Otherwise, you won't be able to work on HW1-HW4
+  * HW1-HW4 (30% each)
 
 ### Schedule (tentative)
 
@@ -41,11 +40,11 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | 9/10 | [Neural Network Training](https://www.dropbox.com/scl/fi/9rb721d9j55mltxzhdc4b/03_Training.pptx?rlkey=s2rqm2yyw6wgcz3olun7rtkl0&dl=0) | 
 | 9/15 | [Neural Network Regularization](https://www.dropbox.com/scl/fi/ebnc8wcz4rr9986bty03e/04_Regularization.pptx?rlkey=e2q8wnbko98u21ohrpenvd87r&dl=0) |
 | 9/17 | [Convolutional Neural Networks](https://www.dropbox.com/scl/fi/3dkwognglw5zlgw1gzzy3/05_CNN.pptx?rlkey=xddba7etatfz481nvu9kocolw&dl=0) |
-| 9/22 | Recurrent Neural Networks |
-| 9/24 | Transformers | 
-| 9/29 | State space models (SSM) |
-| 10/1 | Graph Neural Networks | 
-| 10/6 | Equivariant Neural Networks | 
+| 9/22 | [Recurrent Neural Networks](https://www.dropbox.com/scl/fi/bh4xfmhi2zf6lq2untoi7/06_RNN.pdf?rlkey=555prpwfsjtopndqi35me5arn&dl=0) |
+| 9/24 | [Transformers](https://www.dropbox.com/scl/fi/dckiamyfj5gg4f9wbvmmm/07_Transformer.pdf?rlkey=ewwcfc0wy63nhaga52eg0qz8s&dl=0) | 
+| 9/29 | [Vision Transformers](https://www.dropbox.com/scl/fi/k9si0inmf6o4k7cz4svri/08_ViT.pdf?rlkey=i12aqhpbgzl2b4vrc8w63fiuw&dl=0) |
+| 10/1 | [Graph Neural Networks](https://www.dropbox.com/scl/fi/1kjj35h50pjt3otc4jx8n/09_GNN.pdf?rlkey=tl5ku8nhmcyguzcj321xee571&dl=0) | 
+| 10/6 | Graph Transformers & Geometric GNNs | 
 | 10/8 | Generative Models (Overview + autoregressive) |
 | 10/13 | No class (Colombus Day) |
 | 10/15 | Variational Autoencoders |
