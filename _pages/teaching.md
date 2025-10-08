@@ -30,6 +30,7 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
   * HW0: complete [PyTorch Lab](https://github.com/mrdbourke/pytorch-deep-learning)
   * HW0 will not be graded. If you haven't used PyTorch before, you must finish HW0 by the end of September. Otherwise, you won't be able to work on HW1-HW4
   * HW1-HW4 (30% each)
+  * HW1 is released [here](https://www.dropbox.com/scl/fi/gi8p32e12r9aq26xes5md/DS4440_HW1.ipynb?rlkey=3d3ddwe0nua1sm0hbupl4udfo&dl=0)
 
 ### Schedule (tentative)
 
@@ -44,8 +45,8 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | 9/24 | [Transformers](https://www.dropbox.com/scl/fi/dckiamyfj5gg4f9wbvmmm/07_Transformer.pdf?rlkey=ewwcfc0wy63nhaga52eg0qz8s&dl=0) | 
 | 9/29 | [Vision Transformers](https://www.dropbox.com/scl/fi/k9si0inmf6o4k7cz4svri/08_ViT.pdf?rlkey=i12aqhpbgzl2b4vrc8w63fiuw&dl=0) |
 | 10/1 | [Graph Neural Networks](https://www.dropbox.com/scl/fi/1kjj35h50pjt3otc4jx8n/09_GNN.pdf?rlkey=tl5ku8nhmcyguzcj321xee571&dl=0) | 
-| 10/6 | Graph Transformers & Geometric GNNs | 
-| 10/8 | Generative Models (Overview + autoregressive) |
+| 10/6 | [Geometric GNNs](https://www.dropbox.com/scl/fi/itjo1fag2azfd0p2hnioy/10b_ENN.pdf?rlkey=hqbcfo3vh80z8tsqhbp06jq1b&dl=0) | 
+| 10/8 | [Generative Models (Overview)](https://www.dropbox.com/scl/fi/vric4ucl9lmemqd069mfo/11b_Generative_Model.pdf?rlkey=lz0d6ufcml3x9ciu5yfcf49bu&dl=0) |
 | 10/13 | No class (Colombus Day) |
 | 10/15 | Variational Autoencoders |
 | 10/20 | Generative Adversarial Networks | 
