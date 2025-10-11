@@ -22,7 +22,11 @@ Wengong Jin is an assistant professor at [Khoury College of Computer Sciences](h
 
 His research focuses on geometric and generative AI models for drug discovery and biology. His work has been published in journals including ICML, NeurIPS, ICLR, Nature, Science, Cell, and PNAS, and covered by such outlets as the Guardian, BBC News, CBS Boston, and the Financial Times. He is the recipient of the BroadIgnite Award, Dimitris N. Chorafas Prize, and MIT EECS Outstanding Thesis Award.
 
-**I am recruting postdoc and PhD students who are interested in AI for drug discovery and biology. For prospective postdoc applicants, please send me an email with your CV. For prospective Ph.D. applicants, please submit your material to [Khoury Ph.D. application portal](https://www.khoury.northeastern.edu/apply/phd-apply/).**
+**I am recruting postdoc and PhD students who are interested in** 
+1) **AI for drug discovery, protein folding and design**
+2) **AI agent for scientific discovery**
+
+For prospective postdoc applicants, please send me an email with your CV. For prospective Ph.D. applicants, please submit your material to [Khoury Ph.D. application portal](https://www.khoury.northeastern.edu/apply/phd-apply/).**
 
 <br>
 
@@ -38,7 +42,7 @@ His research focuses on geometric and generative AI models for drug discovery an
  * Graph neural networks: [Weisfeiler-Lehman Network (ICML 2017)](https://proceedings.mlr.press/v70/lei17a/lei17a.pdf), [ChemProp (JCIM 2019)](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237)
 
 ### Impact: drug discovery
- * Discovery of novel antibiotics: [Cell 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1), [Nature Chemical Biology 2022](https://drive.google.com/file/d/1RtWLbWGwVqEGJKfyVGSwYDoOWohkTt4f/view), [Nature 2023](https://www.nature.com/articles/s41586-023-06887-8)
+ * Discovery of novel antibiotics: [Cell 2025](https://www.cell.com/cell/abstract/S0092-8674(25)00855-4), [Cell 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1), [Nature Chemical Biology 2022](https://drive.google.com/file/d/1RtWLbWGwVqEGJKfyVGSwYDoOWohkTt4f/view), [Nature 2023](https://www.nature.com/articles/s41586-023-06887-8)
  * Discovery of synergistic drug combinations: [PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105070118), [Nature Communcations (in review)](https://chemrxiv.org/engage/chemrxiv/article-details/662fbd42418a5379b008668e)
 
 ### Impact: chemical engineering
