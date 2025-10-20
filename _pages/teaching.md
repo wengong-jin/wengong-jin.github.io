@@ -48,8 +48,8 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | 10/6 | [Geometric GNNs](https://www.dropbox.com/scl/fi/itjo1fag2azfd0p2hnioy/10b_ENN.pdf?rlkey=hqbcfo3vh80z8tsqhbp06jq1b&dl=0) | 
 | 10/8 | [Generative Models (Overview)](https://www.dropbox.com/scl/fi/vric4ucl9lmemqd069mfo/11b_Generative_Model.pdf?rlkey=lz0d6ufcml3x9ciu5yfcf49bu&dl=0) |
 | 10/13 | No class (Colombus Day) |
-| 10/15 | Variational Autoencoders |
-| 10/20 | Generative Adversarial Networks | 
+| 10/15 | [Variational Autoencoders](https://www.dropbox.com/scl/fi/179x3bcl8iwk9guhyr53r/12_VAE.pdf?rlkey=en28hgg4oiaprdupjvhqvy0ba&dl=0) |
+| 10/20 | [Generative Adversarial Networks](https://www.dropbox.com/scl/fi/34enbtj0xst53lorjscul/13_GAN.pdf?rlkey=x5lgtjmqc0pnb3euyqckbx6yl&dl=0) | 
 | 10/22 | Diffusion Models |
 | 10/27 | Large Language Models 1 | 
 | 10/29 | Large Language Models 2 |
