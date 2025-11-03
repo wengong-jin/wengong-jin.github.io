@@ -50,18 +50,18 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | 10/13 | No class (Colombus Day) |
 | 10/15 | [Variational Autoencoders](https://www.dropbox.com/scl/fi/179x3bcl8iwk9guhyr53r/12_VAE.pdf?rlkey=en28hgg4oiaprdupjvhqvy0ba&dl=0) |
 | 10/20 | [Generative Adversarial Networks](https://www.dropbox.com/scl/fi/34enbtj0xst53lorjscul/13_GAN.pdf?rlkey=x5lgtjmqc0pnb3euyqckbx6yl&dl=0) | 
-| 10/22 | Diffusion Models |
-| 10/27 | Large Language Models 1 | 
-| 10/29 | Large Language Models 2 |
-| 11/3 | Large Language Models 3 | 
-| 11/5 | Reinforcement Learning 1 |
-| 11/10 | Reinforcement Learning 2 |
-| 11/12 | Explainable AI 1 |
-| 11/17 | Explainable AI 2  | 
-| 11/19 | Adversarial Attack |
-| 11/24 | Neural Network Pruning |
+| 10/22 | [Diffusion Models](https://www.dropbox.com/scl/fi/gdbjtcch3z3s80j7wfj8d/14_Diffusion.pdf?rlkey=yxoqr7ufw33ujbbaye7cajopu&dl=0) |
+| 10/27 | [LLM: Basics](https://www.dropbox.com/scl/fi/ncpce2c85ynqy6rvwbk7t/15-LLM-1.pdf?rlkey=nwrvze1svdnr9yri3slkxjvzo&dl=0) | 
+| 10/29 | [LLM: PEFT, ICL, CoT](https://www.dropbox.com/scl/fi/wd3p229ene6gl2qzyo1k0/16-LLM-2.pdf?rlkey=uxa9xvwukxbuk9qyahmssijwl&dl=0) |
+| 11/3 | [LLM: Alignment, RLHF, DPO](https://www.dropbox.com/scl/fi/k5lj831ek5g6y3lbhgxxv/17_LLM_RL.pdf?rlkey=nswzqo9f6fcf2w6zymh697v8s&dl=0) | 
+| 11/5 | [LLM: RAG](https://www.dropbox.com/scl/fi/ao0n2rk128nkkr6d5hr8o/18_LLM_RAG.pdf?rlkey=ej5xekzt9p5sg6l1drglhkbnv&dl=0) |
+| 11/10 | LLM: RoPE, GQA, MoE |
+| 11/12 | LLM: Scaling laws |
+| 11/17 | LLM: Tool & Agent |
+| 11/19 | Self-supervised learning |
+| 11/24 | Vision-Language LM |
 | 11/26 | No class (Thanksgiving) | 
-| 12/1 | AI for science |
-| 12/3 | AI for healthcare |
+| 12/1 | Explainable AI |
+| 12/3 | Adversarial attack |
 | 12/8 | TBD |
 | 12/10 | TBD |
