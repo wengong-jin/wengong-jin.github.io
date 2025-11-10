@@ -55,8 +55,8 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | 10/29 | [LLM: PEFT, ICL, CoT](https://www.dropbox.com/scl/fi/wd3p229ene6gl2qzyo1k0/16-LLM-2.pdf?rlkey=uxa9xvwukxbuk9qyahmssijwl&dl=0) |
 | 11/3 | [LLM: Alignment, RLHF, DPO](https://www.dropbox.com/scl/fi/k5lj831ek5g6y3lbhgxxv/17_LLM_RL.pdf?rlkey=nswzqo9f6fcf2w6zymh697v8s&dl=0) | 
 | 11/5 | [LLM: RAG](https://www.dropbox.com/scl/fi/ao0n2rk128nkkr6d5hr8o/18_LLM_RAG.pdf?rlkey=ej5xekzt9p5sg6l1drglhkbnv&dl=0) |
-| 11/10 | LLM: RoPE, GQA, MoE |
-| 11/12 | LLM: Scaling laws |
+| 11/10 | [LLM: Test time scaling](https://www.dropbox.com/scl/fi/jikukj4btutt2l2r7ni9z/19_LLM_TTS.pdf?rlkey=5pnwq21p22nlizsc8fq1l88jx&dl=0) |
+| 11/12 | [LLM: Efficient training](https://www.dropbox.com/scl/fi/guzb9bjrji7gzvg51evqo/20_LLM_Efficiency.pdf?rlkey=ja8r2gztxc6lhks2jhfzc3ten&dl=0) |
 | 11/17 | LLM: Tool & Agent |
 | 11/19 | Self-supervised learning |
 | 11/24 | Vision-Language LM |
