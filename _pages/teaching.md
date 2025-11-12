@@ -31,6 +31,7 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
   * HW0 will not be graded. If you haven't used PyTorch before, you must finish HW0 by the end of September. Otherwise, you won't be able to work on HW1-HW4
   * HW1-HW4 (30% each)
   * HW1 is released [here](https://www.dropbox.com/scl/fi/gi8p32e12r9aq26xes5md/DS4440_HW1.ipynb?rlkey=3d3ddwe0nua1sm0hbupl4udfo&dl=0)
+  * HW2 is released [here](https://www.dropbox.com/scl/fi/k6mpun2c7jcrcixgh10jo/DS4440-Homework2.ipynb?rlkey=kkqxjkhcweylc4je8a20ewyys&dl=0)
 
 ### Schedule (tentative)
 
