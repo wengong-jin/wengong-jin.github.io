@@ -58,11 +58,11 @@ Offers a hands-on introduction to modern neural network ("deep learning") method
 | 11/5 | [LLM: RAG](https://www.dropbox.com/scl/fi/ao0n2rk128nkkr6d5hr8o/18_LLM_RAG.pdf?rlkey=ej5xekzt9p5sg6l1drglhkbnv&dl=0) |
 | 11/10 | [LLM: Test time scaling](https://www.dropbox.com/scl/fi/jikukj4btutt2l2r7ni9z/19_LLM_TTS.pdf?rlkey=5pnwq21p22nlizsc8fq1l88jx&dl=0) |
 | 11/12 | [LLM: Efficient training](https://www.dropbox.com/scl/fi/guzb9bjrji7gzvg51evqo/20_LLM_Efficiency.pdf?rlkey=ja8r2gztxc6lhks2jhfzc3ten&dl=0) |
-| 11/17 | LLM: Tool & Agent |
-| 11/19 | Self-supervised learning |
-| 11/24 | Vision-Language LM |
+| 11/17 | [LLM: Tool & Agent](https://www.dropbox.com/scl/fi/nhosm75ctplpsgt47kcsd/21-LLM-agents.pdf?rlkey=bbi11gmv13z6k1jm9opwlmuxr&dl=0) |
+| 11/19 | No class |
+| 11/24 | [Self-supervised learning](https://www.dropbox.com/scl/fi/c2536mm5ncmdxtgf29673/22_VLLM_SSL.pdf?rlkey=jscysu48kqi9pqsh5py19bimb&dl=0) |
 | 11/26 | No class (Thanksgiving) | 
-| 12/1 | Explainable AI |
-| 12/3 | Adversarial attack |
-| 12/8 | TBD |
+| 12/1 | [Self-supervised learning (2)](https://www.dropbox.com/scl/fi/b3ab56pbu4yh26pe9hlik/23_VLLM_SSL-2.pdf?rlkey=cpmpmewq4nnmx07k7chai135u&dl=0) |
+| 12/3 | [Vision language models](https://www.dropbox.com/scl/fi/4s1n8er8i4i0bfsnpnxbx/24_VLLM_CLIP.pdf?rlkey=2x0dytu8kn7uw72j5abo59xbq&dl=0) |
+| 12/8 | Guest lecture: [Prof. Donglai Wei](http://donglaiw.github.io) (BC) |
 | 12/10 | TBD |
